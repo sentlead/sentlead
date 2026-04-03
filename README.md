@@ -21,7 +21,7 @@ Signing Rooms, smart templates, multi-tenant architecture — built to compete w
 
 `Next.js` `Solana` `Prisma` `TypeScript` `Web3`
 
-### 🎵 [Websent](https://youtube.com/@Manele2027](https://www.youtube.com/@websent))
+### 🎵 [Websent](https://www.youtube.com/@websent)
 **Automated YouTube music channel.** Full Python pipeline: audio enhancement → visualizer rendering → thumbnail generation → YouTube upload. Zero manual steps.
 
 `Python` `FFmpeg` `YouTube API` `Automation`
