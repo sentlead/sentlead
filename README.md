@@ -62,7 +62,7 @@ I'm available for **freelance contracts**, **collaborations**, and **interesting
 - System architecture and scalable design
 - Automation pipelines that eliminate manual work
 
-📬 **Let's talk:** [Open an issue](https://sentlead@pm.me) · [YouTube](https://www.youtube.com/@websent)
+📬 **Let's talk:** [Open an issue](https://sentlead@protonmail.com) · [YouTube](https://www.youtube.com/@websent)
 
 ---
 
